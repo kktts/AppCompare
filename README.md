@@ -4,4 +4,4 @@ This application is collecting data from android devices and make a comparison b
 The project is being developed for educational and research purposes.We try to compare devices based on application similarity index.It is easier for a virus to spread through a popular application.In short, higher similarity index means higher virus vulnerability risk.
 
 Application download link:
-http://appcompare.eu.pn/public/Appcompare.apk
+[Download](http://appcompare.eu.pn/public/AppCompare.apk)
