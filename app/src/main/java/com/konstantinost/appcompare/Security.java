@@ -7,7 +7,7 @@ import java.util.Random;
  */
 public class Security {
 
-    private static final String siteUrl = "http://www.appcompare.eu.pn/communicate/attach.php";
+    private static final String siteUrl = "url";
 
     public static String codeGenerator() {
         String code = "";
